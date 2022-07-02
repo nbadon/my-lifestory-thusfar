@@ -1,0 +1,16 @@
+h1 {
+    color: #1230A8;
+}
+
+strong {
+    color: #F55516
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
